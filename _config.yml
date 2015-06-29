@@ -1,12 +1,54 @@
-# Site settings
-title: Francis Shanahan
-email: 
-description: "http://LinkedIn.com/in/FrancisShanahan"
-baseurl: ""
-url: "http://FrancisShanahan.com"
-twitter_username: FrancisShanahan
-github_username:  FrancisShanahan
-
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+  
+# Site settings
+title: "Francis Shanahan"
+description: > # this means to ignore newlines until "email:"
+   running, technology & software development
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/fs_logo.png"
+# blog cover
+cover: "/assets/article_images/IMG_20150321_153456.jpg"
+
+name: 'Francis Shanahan'
+author: 'Francis Shanahan'
+author_image: "/assets/article_images/about/linkedin.jpg"
+
+paginate:	5
+
+url: "http://francisshanahan.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/francisshanahan
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/francisshanahan
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
