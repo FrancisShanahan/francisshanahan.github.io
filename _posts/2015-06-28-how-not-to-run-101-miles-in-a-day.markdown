@@ -9,15 +9,13 @@ wordpress_url: http://francisshanahan.com/?p=3650
 date: '2015-06-28 14:10:11 -0400'
 date_gmt: '2015-06-28 18:10:11 -0400'
 categories:
-- Featured
-- Headline
 - Running
 tags: []
 comments: []
 old_image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image: /assets/article_images/2015-06-15-101miles/IMG_20150515_081141.jpg
 ---
-Somehow I survived running for 24hours around a 1 mile loop at the NJ Trail Series 3 Days at the Fair event on May 14-15. It was amazing on so many levels. Here's my after-action report.
+Somehow I survived running for 24hours around a 1 mile loop at the NJ Trail Series 3 Days at the Fair event on May 14-15. It was an amazing experience on so many levels and I was able to raise over $1600 for colon cancer research. Here's my after-action report.
 
 This was my 2nd attempt at running for this duration and my first time completing 100+ miles. It felt amazing and still does even now 2 months later. It's by far my biggest achievement in terms of the formal races I've done and to cap it all I ended up with 2nd place in the men's overall 24hour group!
 
